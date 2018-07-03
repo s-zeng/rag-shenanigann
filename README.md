@@ -1,7 +1,7 @@
 # rag-shenanigann
 Resources and documentation from my experiments in automated music composition.
-
 You can listen to some of the results in the [samples](https://github.com/s-zeng/rag-shenanigann/tree/master/samples) folder.
+
 Discussion about the strengths and weaknesses of this approach can be found at the end of this readme.
 
 ## Requirements
