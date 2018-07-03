@@ -30,7 +30,7 @@ in the samples folder.
  6. Listen and enjoy!
  
  ## Reflection
- You may have noticed a commonality in all of the sample output files - inconsistent tempo and styles.
- Perhaps inconsistent style may be unavoidable with a neural network approach, but the inconsistent tempo likely arises from not
- normalizing the tempo and ticks/beat in each midi file. Future work should focus on converting each midi file to a specific tempo
- and ticks/beat in a manner that preserves the songs actual runtime.
+A common weakness exists in all of the sample output files - inconsistent tempo and styles.
+Perhaps inconsistent style may be unavoidable with a neural network approach, but the inconsistent tempo likely arises from not
+normalizing the tempo and ticks/beat in each midi file. Future work should focus on converting each midi file to a specific tempo
+and ticks/beat in a manner that preserves the songs actual runtime.
