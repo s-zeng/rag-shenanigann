@@ -30,7 +30,9 @@ in the samples folder.
  6. Listen and enjoy!
  
  ## Reflection
-A common weakness exists in all of the sample output files - inconsistent tempo and styles.
+Surprisingly, the neural network seems to have a good understanding of chords and harmony, as long as its able to stay on
+one track for long enough.
+Unfortunately, a common weakness exists in all of the sample output files - inconsistent tempo and styles.
 Perhaps inconsistent style may be unavoidable with a neural network approach, but the inconsistent tempo likely arises from not
 normalizing the tempo and ticks/beat in each midi file. Future work should focus on converting each midi file to a specific tempo
 and ticks/beat in a manner that preserves the songs actual runtime.
